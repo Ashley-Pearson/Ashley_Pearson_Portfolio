@@ -6,6 +6,8 @@ This is my personal developer portfolio. The about me section will give some one
 
 ![Example](./assets/Images/Screen%20Shot%202022-09-26%20at%2010.17.56%20PM.png)
 
+https://ashley-pearson.github.io/Ashley_Pearson_Portfolio/
+
 ## Technologies
 - HTML
 - CSS
